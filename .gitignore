@@ -1,0 +1,33 @@
+# Python environment and cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# IDE files
+.idea/
+.vscode/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Logs, temporary files, and local data
+*.log
+data/
+tmp/
+*.tmp
+
+# Local models and databases
+models/
+*.db
+*.sqlite3
+
+# Personal contact data
+contacts.json
