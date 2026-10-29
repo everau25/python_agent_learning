@@ -12,7 +12,7 @@ git pull --ff-only
 ```powershell
 git status
 git diff
-git add daily Assignments practice
+git add .
 git diff --cached
 git commit -m "study: record day XX"
 git push

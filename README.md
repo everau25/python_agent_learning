@@ -12,7 +12,7 @@
 
 ## 当前进度
 
-- 每日总结：[Day 01](daily/day01-coze-basics.md)、[Day 02](daily/day02-coze-agent.md)
+- 每日总结：查看  daily/
 - 课程作业：查看 `Assignments/`
 - 个人练习：查看 `practice/`
 - 学习节奏：[roadmap.md](roadmap.md)
