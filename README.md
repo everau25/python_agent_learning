@@ -10,11 +10,13 @@
 
 代码文件尽量按课程日期或主题归类，运行过再提交。一个简单练习不需要额外拆出项目、知识点实验等目录。
 
-## 当前进度
+## 目录入口
 
-- 每日总结：查看  daily/
-- 课程作业：查看 `Assignments/`
-- 个人练习：查看 `practice/`
+- 每日总结：[`daily/`](daily/)
+- 课程作业：[`Assignments/`](Assignments/)
+- 个人练习：[`practice/`](practice/)
+- 专题笔记：[`notes/`](notes/)
+- 阶段项目：[`projects/`](projects/)
 - 学习节奏：[roadmap.md](roadmap.md)
 
 ## 每天结束时
