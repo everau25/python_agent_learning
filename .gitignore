@@ -20,7 +20,6 @@ __pycache__/
 
 # Logs, temporary files, and local data
 *.log
-data/
 tmp/
 *.tmp
 

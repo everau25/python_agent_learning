@@ -1,50 +1,21 @@
-# Python To Agent Engineer Roadmap
+# 学习节奏
 
+不按“第几个月必须学到什么”赶进度。跟着当前课程走，每天把总结、作业和练习做好；一章结束后再决定下一步。
 
-## Phase 1 Python Engineering
+## 每日循环
 
-Day 1-30
+1. **学当天课程**：记下主题和关键概念，不需要逐字抄课件。
+2. **写每日总结**：用自己的话说明学了什么、还不清楚什么。
+3. **完成作业**：题目放到 `Assignments/`，按课程日期或章节归档。
+4. **做一两个练习**：把知识点换个输入或场景自己实现，放到 `practice/`。
+5. **运行并回顾**：检查输出；出错时先定位原因，再把有效的修复记下来。
 
-内容：
+## 每周回看
 
-- Python高级语法
-- 面向对象
-- 异步编程
-- 文件处理
-- 虚拟环境
+- 哪些题现在可以不看答案独立写？
+- 哪个知识点还要再练？
+- 下周课程和作业是什么？优先补课程当前涉及的内容。
 
+## 之后再决定
 
-## Phase 2 Backend
-
-Day 31-60
-
-内容：
-
-- FastAPI
-- API设计
-- 数据库
-
-
-## Phase 3 LLM Application
-
-Day 61-120
-
-内容：
-
-- OpenAI API
-- Ollama
-- Prompt Engineering
-- RAG
-
-
-## Phase 4 Agent
-
-Day 121-180
-
-内容：
-
-- LangGraph
-- Tool Calling
-- Memory
-- MCP
-- Deployment
+Python 基础学到课程要求并能独立完成练习后，再根据课程安排选择后续方向，例如文件与数据处理、自动化、Web 后端或 AI 应用。现在不预设 FastAPI、RAG、Agent 等路线，也不要求为它们提前做项目。
