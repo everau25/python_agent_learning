@@ -36,7 +36,75 @@
 
 
 # for循环做99乘法表
-for i in range(1, 10):
-    for j in range(1, i + 1):
-        print(f"{j}*{i}={i * j}", end="\t")
-    print()
+# for i in range(1, 10):
+#     for j in range(1, i + 1):
+#         print(f"{j}*{i}={i * j}", end="\t")
+#     print()
+
+# for i in range(1,6):
+#     for j in range(1,6):
+#         print("*",end="")
+#     print()
+# for i in range(1, 6):         # 管5行
+#     for j in range(1,6):     # 管每行固定5个
+#         print("*", end=" ")   # 打星星
+#     print()
+
+# for i in range(1,6):
+#     for j in range(1,i+1):
+#         print('*',end='')
+#     print()
+
+# for i in range(1,9):
+#     for j in range(1,i+1):
+#         print(f'{j}*{i}={j*i}',end='\t')
+#     print()
+
+#  正三角形案例
+'''
+    *
+   ***
+  ******
+ *********
+************
+'''
+# for i in range(1,6):
+#      for j in range(6-i):
+#          print(' ',end='')
+#      for k in range(i*2 - 1):
+#          print('*',end='')
+#      print()
+
+#  数字阶梯
+# for i in range(1,6):
+#     for j in range(1,i+1):
+#         print(j,end='')
+#     print()
+
+#  平行四边形
+# for i in range(1,6):
+#     for j in range(6-i):
+#         print(' ',end='')
+#     for j in range(6):
+#         print('*',end='')
+#     print()
+
+#  续99乘法表
+# for i in range(1,10):
+#     for j in range(1,i+1):
+#         print(f'{j}*{i}={j*i}',end='\t')
+#     print()
+
+#  倒99乘法表
+# for i in range(1,10):
+#     for j in range(10-i):
+#         print(f'{j+1}*{10-i}',end='\t')
+#     print()
+
+#  倒正三角形
+# for i in range(1,6):
+#     for j in range(i-1):
+#         print(' ',end='')
+#     for k in range(6-i):
+#         print('* ',end='')
+#     print()
